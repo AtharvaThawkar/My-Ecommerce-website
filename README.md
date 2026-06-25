@@ -7,17 +7,11 @@
 A responsive and visually appealing **E-Commerce frontend website** built using HTML5, CSS3, and Bootstrap 4. This project demonstrates UI design skills, CSS animations, Bootstrap components, and responsive web design principles.
 
 ---
-<!-- Do This after Deployment
+ 
 ## 🌐 Live Demo
 
-> 🔗 **[View Live Demo](#)** ← *(Add your deployed link here)*
+> 🔗 **[View Live Demo](https://myshopproject1.netlify.app/)**
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your project here after deploying)*
--->
 ---
 
 ## ✨ Features
