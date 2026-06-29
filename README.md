@@ -40,6 +40,25 @@ A responsive and visually appealing **E-Commerce frontend website** built using 
 | jQuery | Bootstrap JS dependency |
 
 ---
+## 📁 Folder Structure
+
+```
+MyShop-Ecommerce/
+│
+├── index.html          # Main HTML file
+├── style.css           # Custom CSS styles & animations
+└── Images/             # All project images
+    ├── Main.png        # Logo
+    ├── Background.png  # Hero & About section image
+    ├── s1.png          # Product images
+    ├── s2.png
+    ├── goog.png        # Google rating logo
+    ├── fb.png          # Facebook rating logo
+    ├── cart.png        # Cart icon
+    ├── heart.png       # Wishlist icon
+    ├── view.png        # View icon
+    └── so1-3.png       # Carousel images
+```
 
 ---
 
